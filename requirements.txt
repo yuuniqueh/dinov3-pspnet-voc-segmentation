@@ -1,0 +1,14 @@
+# Install matching PyTorch and torchvision CUDA wheels separately from
+# https://download.pytorch.org/whl/cu128.
+numpy
+Pillow
+tqdm
+tensorboard
+omegaconf
+torchmetrics
+ftfy
+regex
+scikit-learn
+submitit
+termcolor
+matplotlib

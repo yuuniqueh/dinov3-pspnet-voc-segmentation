@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.idea/
+.venv/
+.cache/
+data/
+checkpoints/
+runs/
+*.pth
+*.pt
+third_party/dinov3-main/
+dinov3-main.zip
